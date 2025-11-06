@@ -1,0 +1,10 @@
+streamlit
+torch
+timm
+ultralytics
+transformers
+numpy
+pillow
+opencv-python-headless
+omegaconf
+sqlite3-binary
